@@ -1,0 +1,2 @@
+# Crop_and_Fertilizer_Recommendation_System
+Recommendation system using Machine Learning
